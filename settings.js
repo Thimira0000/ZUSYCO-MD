@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
+  OWNER_NUMBER: "94717381136",
+  SUDO_NUMBERS : "94717381136,94719574492",
+  OWNER_NAME: "『 𝙼𝚁 ᴘᴀɴᴅᴀʜ 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -27,15 +27,15 @@ module.exports = {
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
-  WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
+  WORK_MODE_MESSAGE_SEND : true,
+  CAPTION : '© POWERD BY PANDA ඔබටත් මේ ආකාරයේ හෝ වෙනත් කුමන බොට් කෙනෙක් හෝ බොට් කෙනෙක් සාදා ගැනීමට පැමිනෙන්න. 94717381136',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
@@ -48,11 +48,11 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
      STATUS : false,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
@@ -72,12 +72,12 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
