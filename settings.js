@@ -33,9 +33,9 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "public",
   WORK_MODE_MESSAGE_SEND : true,
-  CAPTION : '© POWERD BY PANDA ඔබටත් මේ ආකාරයේ හෝ වෙනත් කුමන බොට් කෙනෙක් හෝ බොට් කෙනෙක් සාදා ගැනීමට පැමිනෙන්න. 94717381136',
+  CAPTION : '✯ _*𝙋𝙊𝙒𝙀𝙍𝘿 𝘽𝙔 𝙋𝘼𝙉𝘿𝘼 𝘽𝘽𝙃❤💫*_ *_☄ඔබටත් මේ ආකාරයේ හෝ වෙනත් කුමන බොට් කෙනෙක් හෝ බොට් කෙනෙක් සාදා ගැනීමට පැමිනෙන්න☄._* 💗🍃 *http://wa.me/+94717381136*',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
@@ -72,7 +72,7 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : true,
+  AUTO_STICKER : false,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
